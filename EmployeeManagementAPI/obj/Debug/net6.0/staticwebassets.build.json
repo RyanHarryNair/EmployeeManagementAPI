@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "Dkho6SXXYxwi9HCULSlP+sDeV/pQSL3E9hDs5c16ptw=",
+  "Source": "EmployeeManagementAPI",
+  "BasePath": "_content/EmployeeManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagementAPI\\wwwroot",
+      "Source": "EmployeeManagementAPI",
+      "ContentRoot": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\EmployeeImages\\11.jpg",
+      "SourceId": "EmployeeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "RelativePath": "EmployeeImages/11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeeImages\\11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\EmployeeImages\\12.jpeg",
+      "SourceId": "EmployeeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "RelativePath": "EmployeeImages/12.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeeImages\\12.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\EmployeeImages\\13.jpeg",
+      "SourceId": "EmployeeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "RelativePath": "EmployeeImages/13.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeeImages\\13.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\EmployeeImages\\14.jpeg",
+      "SourceId": "EmployeeManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementAPI",
+      "RelativePath": "EmployeeImages/14.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeeImages\\14.jpeg"
+    }
+  ]
+}
