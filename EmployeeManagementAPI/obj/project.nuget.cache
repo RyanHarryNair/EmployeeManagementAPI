@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUU4AgEbV/MymJC8EI1i6PWkAvQQc3X6szlWYHQ1fr3BnW/Rxl5C8nczk+74Lts9Ss4kPudmq+5kej/otPWY0A==",
+  "dgSpecHash": "zi0aXjOAkykfm4Wsjol+omW6y8XJh0cD0GYz2cCE7G5CU9Mr4x3r7kpVmHCIjIqvjWbxdRIBnfLVs/Wc5aMKHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\haris\\Desktop\\IT\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haris\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\haris\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

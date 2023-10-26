@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {}
+    "C:\\Users\\haris\\Desktop\\IT\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {
+    "C:\\Users\\haris\\Desktop\\IT\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\haris\\Desktop\\IT\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
         "projectName": "EmployeeManagementAPI",
-        "projectPath": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+        "projectPath": "C:\\Users\\haris\\Desktop\\IT\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
         "packagesPath": "C:\\Users\\haris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haris\\Desktop\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\haris\\Desktop\\IT\\Soft Dev\\Employee Managenet System\\EmployeeManagementAPI\\EmployeeManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\haris\\AppData\\Roaming\\NuGet\\NuGet.Config",
